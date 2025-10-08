@@ -1,2 +1,3 @@
-# Expense-Tracker-Dashboard
-Client-side web expense tracker using localStorage to store and display expenses offline.
+# expense-tracker-dashboard
+
+Static client-only expense tracker using localStorage. Open `index.html` in browser.
