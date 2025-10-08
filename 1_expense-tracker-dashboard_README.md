@@ -8,14 +8,6 @@ Client-side web expense tracker using localStorage to store and display expenses
 - HTML
 - JavaScript
 
-## Demo
-[Insert screenshot here]
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
 ## Setup & Run Instructions
 ```bash
 Open index.html in browser
